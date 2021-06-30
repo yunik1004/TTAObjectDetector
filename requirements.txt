@@ -1,3 +1,7 @@
+matplotlib
+numpy
 opencv-python
+pycocotools
 pytorch
+tqdm
 git+https://github.com/facebookresearch/detectron2.git
