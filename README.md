@@ -1,3 +1,3 @@
 # TTAObjectDetector
 
-Test-time augmentation (TTA) for object detection
+Object detection with test-time augmentation (TTA)
